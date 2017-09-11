@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+    </head>
+    
+    <style> 
+ 
+    #Niagara-Info {
+        color: rgb(12, 51, 227);
+    }
+        
+        h1 {
+            color: rgb(20, 47, 120);
+        }
+        
+        #place {
+            color:rgb(11, 15, 138);
+        }
+        
+        #food {
+            color:rgb(14, 119, 179);
+        }
+        
+        #ending {
+            color:rgb(61, 24, 194);
+        }
+        
+        body {
+            background-color:rgb(201, 207, 242);
+        }
+    </style>
+    <body>
+    
+        <h1>Travel to Niagara
+        </h1>
+         <img src="https://www.kasandbox.org/programming-images/landscapes/waterfall_niagara-falls.png" alt="Niagara Falls Waterfall" width="400"> 
+        
+        <ul id="place"> Places To See
+            <li>The Falls
+            <li>The Infamous Niagara SkyWheel
+            <li>Guiness Record Museum
+        </ul>
+        
+         <img src="https://www.kasandbox.org/programming-images/food/hamburger.png" alt="Burger wrapped in red and whiter checkered paper alongside fries" width="400"> 
+
+ <ul id="food"> Food
+            <li>The Works' burgers!
+            <li>The Blue Line Diner
+            <li>Mostly Cheap Eats
+        </ul>
+        
+        
+        <p id="Niagara-Info"> Niagara Falls is a well-known place for travel. The Falls itself is a <em>huge</em> tourist attraction. <br> We have great food and a huge Downtown where there is a lot to explore & do. It's also very cool to celebrate New Year's here since our Falls change color at night. </p>
+        
+        <img src="https://www.kasandbox.org/programming-images/seasonal/fireworks-over-harbor.png" alt="Clouds from a plane" width="350"> 
+        
+        <p id="ending"> So I hope you <em>do</em> come and visit Niagara Falls. </p>
+    </body>
+    
+    
+</html>
